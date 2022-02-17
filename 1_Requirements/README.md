@@ -16,9 +16,14 @@ Benifits:
               The user can also make changes in the record. 
               The user has a power of deleting any record.
               
+              
 Defining our System:
+
               you can add, view, edit and delete records. Records can be added with many information such as duration of task, name, address, time and date. File handling has been effectively used to keep the records.
-REQUIREMENTS
+              
+              
+REQUIREMENTS:
+
               HIGH LEVEL REQUIREMENTS:-
                     
                The Personal Dairy Management System is used to store the personal data of an individual person. 
