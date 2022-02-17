@@ -5,8 +5,8 @@ INTRODUCTION
               Personal Diary Management System is based on concept to generate Personal Daily Records and to add records & update it.
               This System makes easy to store daily record.
               It’s easy to operate and understand by users.
-              
-              Each Section contain high security so there is no chance of data loss. There’s maximum privacy to the recorded files. This System makes easy to store daily records.
+              Each Section contain high security so there is no chance of data loss. There’s maximum privacy to the recorded files.
+              This System makes easy to store daily records.
               
 Benifits:
               The most important feature is that it is the password protected.
