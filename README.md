@@ -4,4 +4,5 @@ CODACY BATCH
 Build
 [![CI](https://github.com/pavithra-7373/Pavithra_Personal_Diary/actions/workflows/build.yml/badge.svg)](https://github.com/pavithra-7373/Pavithra_Personal_Diary/actions/workflows/build.yml)
 
-
+Gitinspector
+[![Git Inspector](https://github.com/pavithra-7373/Pavithra_Personal_Diary/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/pavithra-7373/Pavithra_Personal_Diary/actions/workflows/gitinspector.yml)
