@@ -6,3 +6,6 @@ Build
 
 Gitinspector
 [![Git Inspector](https://github.com/pavithra-7373/Pavithra_Personal_Diary/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/pavithra-7373/Pavithra_Personal_Diary/actions/workflows/gitinspector.yml)
+
+Codequality
+[![Valgrind](https://github.com/pavithra-7373/Pavithra_Personal_Diary/actions/workflows/codequality.yml/badge.svg)](https://github.com/pavithra-7373/Pavithra_Personal_Diary/actions/workflows/codequality.yml)
