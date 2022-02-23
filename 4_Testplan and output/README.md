@@ -12,4 +12,8 @@
 
  # Show password
 
- ![Show Password](https://user-images.githubusercontent.com/98948425/155308897-60b5d1d0-6216-4e08-b03b-219443079d70.png)
+ ![Show Password](https://user-images.githubusercontent.com/98948425/155308897-60b5d1d0-6216-4e08-b03b-219443079d70.png)\
+
+ #  View Record
+
+ ![View  record](https://user-images.githubusercontent.com/98948425/155309315-96fe124c-24e3-46a7-92c0-8833f52746de.png)
