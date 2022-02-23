@@ -4,7 +4,7 @@ CODACY BADGE
 BADGES
 
 Build
-[![CI](https://github.com/pavithra-7373/Pavithra_Personal_Diary/actions/workflows/build.yml/badge.svg)](https://github.com/pavithra-7373/Pavithra_Personal_Diary/actions/workflows/build.yml)
+[![CI](https://github.com/pavithra-7373/Pavithra_Personal_Diary/actions/workflows/Build.yml/badge.svg)](https://github.com/pavithra-7373/Pavithra_Personal_Diary/actions/workflows/Build.yml)
 
 Gitinspector
 [![Git Inspector](https://github.com/pavithra-7373/Pavithra_Personal_Diary/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/pavithra-7373/Pavithra_Personal_Diary/actions/workflows/gitinspector.yml)
