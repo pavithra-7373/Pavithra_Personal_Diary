@@ -9,3 +9,7 @@
  # Add record
 
  ![Personal diary (output)](https://user-images.githubusercontent.com/98948425/155308462-54f51e7d-a240-4b8f-ae74-28f7d798e702.png)
+
+ # Show password
+
+ ![Show Password](https://user-images.githubusercontent.com/98948425/155308897-60b5d1d0-6216-4e08-b03b-219443079d70.png)
