@@ -1,5 +1,5 @@
 # Pavithra_Personal_Diary
-INTRODUCTION:
+# INTRODUCTION:
                                                           
               The Personal Diary Management System is a very simple project  using c language.
               The Main aim of this project to here User can add their daily details safely.
@@ -10,18 +10,18 @@ INTRODUCTION:
               You can edit the password within the application. Here you can use the enter key as the password.
               This System makes easy to store daily record.It’s easy to operate and understand by users.
               
-BENIFICTS:
+# BENIFICTS:
               It is the password protected. This System is also capable of changing the password as many times as you can.
               This System has a capability of storing unlimited records.
               The user can also take a look on his records.
               The user can also make changes in the record. 
               The user has a power of deleting any record.
               
-DEFINITION OF OUR SYSTEM:
+# DEFINITION OF OUR SYSTEM:
               You can add, view, edit and delete records. Records can be added with many information such as duration of task, name, address, time and date. File handling has been effectively used to keep the records.
 
               
-REQUIREMENTS:
+# REQUIREMENTS:
               HIGH LEVEL REQUIREMENTS:-
                     
                    The Personal Dairy Management System is used to store the personal data of an individual person. 
@@ -40,37 +40,39 @@ REQUIREMENTS:
                    void editpassword() – to modify/change a password
                    void deleterecord() – to delete or remove a record permanently from system file In this project, you need to enter a password to view, edit or delete record.   
 
-4 W's and 1 H's of the project:
+# 4 W's and 1 H's of the project:
 
-Why?
+# Why?
 * This app represent password protected digital personal diary management which maintains to-do list.
 * functions in this app are add , view , edit,delete,edit the password.
 * user can enter their preferred choice.
 
-Where?
+# Where?
 * This project can be used for individual personal task management
 * It will be used for individual purpose only.
 * App is encrpted with user created password, so it maintains intergrity
 
 
-Who?
+# Who?
 * This project is useful for any individuals like students , employees ,etc..
 
-When?
+# When?
 * If user wants a productive way to do their daily task with time-stamps
 
-How?
-*Project can be created by running the C file ,it compiles and generates an executable file
-*open the executable file(.exe or Application) to start the app.
+# How?
+* Project can be created by running the C file ,it compiles and generates an executable file
+* open the executable file(.exe or Application) to start the app.
 
-                                                          SWOT ANALYSIS
+# SWOT ANALYSIS
                                                           
-Strengths:
-          It is very user friendly.
-          Time compatibility.
-Weakness:
+# Strengths:
+         It is very user friendly.
+         Time compatibility.
+# Weakness:
           Sometimes, It may leads to Server error.
-Opportunities:
+# Opportunities:
           Securing each diary with an individual password.
-Threads:
+# Threads:
           keeping a digital diary is that you might not have access to it all the time.
+
+[README.md](https://github.com/pavithra-7373/Pavithra_Personal_Diary/files/8123490/README.md)
